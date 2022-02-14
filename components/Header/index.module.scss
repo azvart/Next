@@ -1,0 +1,19 @@
+@import '../../styles/variable.scss';
+.header{
+    height: 80px;
+    display: flex;
+    flex-direction: row;
+    background-color: $white ;
+    align-items: center;
+    .container{
+        display: flex;
+        flex-direction: row;
+        margin: 0px 124px;
+        height: inherit;
+        width: 100%;
+        align-items: center;
+        .logo{
+            
+        }
+    }
+}

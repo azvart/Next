@@ -1,0 +1,17 @@
+@import './reset.scss';
+@import './variable.scss';
+
+html {
+    font-family: Gotham, sans-serif;
+    font-size: 16px;
+    background-color: $background;
+}
+
+
+
+.app {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}`
